@@ -1,7 +1,6 @@
 # Prednet
 
-## disclaimer: 
-Many elemetnts of this repo are not my work. Most work in this repo is done by others who are credited in the README files of each individual folder.
+Most elemetnts of this repository are not my work. Work in this repository was mostly done by others who are credited in the README files of each individual folder.
 
 
 @ARTICLE{Geiger2013IJRR,
