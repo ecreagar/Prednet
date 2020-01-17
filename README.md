@@ -1,6 +1,6 @@
 # Prednet
 
-Most elemetnts of this repository are not my work. Work in this repository was mostly done by others who are credited in the README files of each individual folder.
+Most elements of this repository are not my work. Work in this repository was mostly done by others who are credited in the README files of each individual folder.
 
 ## My Use
 
